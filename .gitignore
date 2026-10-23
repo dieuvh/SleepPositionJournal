@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+checkpoint/
+results/
+work_dir/
+data/**/*.npy
+data/**/*.csv
