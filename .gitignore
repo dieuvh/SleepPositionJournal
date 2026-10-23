@@ -5,5 +5,3 @@ __pycache__/
 checkpoint/
 results/
 work_dir/
-data/**/*.npy
-data/**/*.csv
